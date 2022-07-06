@@ -1,0 +1,19 @@
+avaer-1495|yeah so I'm the mole topic of multiplayer how are you handling it like|yeah so i'm the mole topic of multiplayer how are you handling it like
+avaer-1557|between native code and into other browsers so it's a very meta thing I|between native code and into other browsers so it's a very meta thing i
+avaer-211|where we like to encourage people to move into the right direction|where we like to encourage people to move into the right direction
+avaer-210|inside of their browser it's on their roadmap but there's still some areas|inside of their browser it's on their roadmap but there's still some areas
+avaer-1678|but once you actually have one of these meta browsers these metaphors browsers|but once you actually have one of these meta browsers these metaphors browsers
+avaer-100|tabs another thing that we needed to develop for making this kind of work is|tabs another thing that we needed to develop for making this kind of work is
+avaer-618|resource sharing across origins in order to be able to blend these worlds despite|resource sharing across origins in order to be able to blend these worlds despite
+avaer-1370|allow extensibility is the idea of realms so yep there's a company that's|allow extensibility is the idea of realms so yep there's a company that's
+avaer-1621|resource sharing across origins in order to be able to blend these worlds despite|resource sharing across origins in order to be able to blend these worlds despite
+avaer-1838|address you know or anything into a GL context then right then that data is|address you know or anything into a gl context then right then that data is
+avaer-259|parts here because this is still I would consider this in the hack phase the|parts here because this is still i would consider this in the hack phase the
+avaer-406|this is not this is not the implementation that we're using here|this is not this is not the implementation that we're using here
+avaer-570|because of the way that Z buffers work um you can actually do a full 3d blend|because of the way that z buffers work um you can actually do a full threed blend
+avaer-1551|browser in magiclip it runs inside of a browser on the oculus quest and you|browser in magiclip it runs inside of a browser on the oculus quest and you
+avaer-1762|problems with every single reality having its own control scheme yes yes|problems with every single reality having its own control scheme yes yes
+avaer-1686|order to create actual AIS in an actual virtual world and one more thing that I|order to create actual ais in an actual virtual world and one more thing that i
+avaer-405|have an actual iframe that is overlaid on top of a GL context at the HTML layer|have an actual iframe that is overlaid on top of a gl context at the html layer
+avaer-1409|this is not this is not the implementation that we're using here|this is not this is not the implementation that we're using here
+avaer-1920|why you cannot do just regular iframe to WebEx our communication so could it be|why you cannot do just regular iframe to webex our communication so could it be
